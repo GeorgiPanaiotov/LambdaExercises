@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.exe
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.deps.json
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.dll
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\bin\Debug\netcoreapp3.1\FunctionalProgramming.pdb
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.dll
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.pdb
+C:\Users\ThinkPad\source\repos\FunctionalProgramming\FunctionalProgramming\obj\Debug\netcoreapp3.1\FunctionalProgramming.genruntimeconfig.cache
